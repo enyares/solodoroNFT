@@ -29,28 +29,26 @@ Collection Mint:  https://explorer.solana.com/address/2geZak3aaTXiyGd8kk9zUg3BNa
 #### Create NFT
 
 ```
-image uri: https://lezdbnkba5y35bprplwei3d46nrznka2tp5twmxxxtydkjjpgjfa.arweave.net/WTIwtUEHcb6F8XrsRGx882OWqBqb-zsy97zwNSUvMko
+image uri: https://uvw2m3fezuvwethu3qpt27bzbwqwdgj3gny6mhrqigmaqkjqqvaa.arweave.net/pW2mbKTNK2JM9NwfPXw5DaFhmTszceYeMEGYCCkwhUA
 
 ```
 ```
-metadata uri: https://7tqmxcoecs4moeh2pdyrtgmhgujiqnqetotwx3xzsgarxh35xl7q.arweave.net/_ODLicQUuMcQ-njxGZmHNRKINgSbp2vu-ZGBG599uv8
+metadata uri: https://arweave.net/KIRwFESCPQAlSpzjKJGU73R3fyYgXzk7JXUdKMBaEEI
 
 ```
 ```
-token mint: https://explorer.solana.com/address/8znyUnYc4LwDjBtVHurkRmHwKwwvNCFv9jSyEXePQzYj?cluster=devnet
+token mint: https://explorer.solana.com/address/DawMoRPuZ7tNvncPmBbnmpRj16A6WJ9HE3UMi2j3opxv?cluster=devnet
 
 ```
-<img width="653" alt="Ekran Resmi 2023-03-05 10 05 42" src="https://user-images.githubusercontent.com/77569603/222946834-e6dc064b-959e-4c9c-9ada-c3e17d188138.png">
 
-<img width="1165" alt="Ekran Resmi 2023-03-05 10 06 03" src="https://user-images.githubusercontent.com/77569603/222946880-f6bdaee9-ebae-4f25-98d4-0c8362cab579.png">
+<img width="547" alt="Ekran Resmi 2023-03-05 12 21 37" src="https://user-images.githubusercontent.com/77569603/222952326-caeea4b3-fba3-4a8a-9ccd-239e62f256f7.png">
 
-<img width="1175" alt="Ekran Resmi 2023-03-05 10 06 28" src="https://user-images.githubusercontent.com/77569603/222946885-edc42a62-3626-4878-ae3f-a0490e6b958d.png">
+<img width="784" alt="Ekran Resmi 2023-03-05 12 21 46" src="https://user-images.githubusercontent.com/77569603/222952328-a51d29dd-4321-4001-8c68-8c52a7a9cd6b.png">
 
-<img width="1156" alt="Ekran Resmi 2023-03-05 10 06 47" src="https://user-images.githubusercontent.com/77569603/222946888-87e9ab7f-0ad2-45fc-93ec-f8275e859df5.png">
+<img width="782" alt="Ekran Resmi 2023-03-05 12 22 00" src="https://user-images.githubusercontent.com/77569603/222952332-e603f946-adb6-44b9-a52f-d25746881f10.png">
 
-<img width="758" alt="Ekran Resmi 2023-03-05 10 07 56" src="https://user-images.githubusercontent.com/77569603/222946898-399bbb34-3527-49b6-8ee2-781d76e010b4.png">
+<img width="797" alt="Ekran Resmi 2023-03-05 12 23 11" src="https://user-images.githubusercontent.com/77569603/222952336-c9f2bac7-ecbe-47d2-a9f9-a60898fc5ece.png">
 
-
-
+<img width="750" alt="Ekran Resmi 2023-03-05 12 23 29" src="https://user-images.githubusercontent.com/77569603/222952337-37b1fd01-c2e8-49ab-b2ac-bf46fc9d60f3.png">
 
 
